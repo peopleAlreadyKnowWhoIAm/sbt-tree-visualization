@@ -21,7 +21,7 @@ Draws trees using logs given to it as terminal input
 The executable needs to be given the text logs by standart in (terminal prompt).
 Example of the input logs:
 
-```txt
+```text
 RB
 67 black
 42 black 67
